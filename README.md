@@ -1,17 +1,17 @@
-#TF2 decal tool patcher
+# TF2 decal tool patcher
 
-##Summary
+## Summary
 
 A patcher for TF2 Windows client which removes the restrictions regarding full-colored decals. Now you can apply full-colored images not only to your Objectors and Flairs, but to Photo Badge and Clan Pride too!
 
 
-##Deployment
+## Deployment
 
 Either grab the binary file (*patcher.exe*) or compile it from source code (*patcher.dpr*). Please note that anything never than Delphi 2009 will fail to compile this code because of unicode string mappings, I'll fix it soon.
 You can use FPC (>=2.x) if you wish.
 
 
-##How to use
+## How to use
 
 *DO NOT CONNECT TO A VAC-SECURED SERVER WHILE DOING THIS STUFF!*
 You should have a Decal Tool, a decalable item, and the image you wish to apply to this item. Image must be in 128x128 resolution. PNG format is preferred.
@@ -21,11 +21,11 @@ Open your backpack, navigate to your Decal Tool and use it on a decalable item. 
 Apply the decal. Close the game and fire it up again. You can connect to servers now - the item will stay in your inventory forever.
 
 
-##License
+## License
 
 This project is licensed under the terms of WTFPL v2. See http://www.wtfpl.net for more details.
 
 
-##Contact info
+## Contact info
 
 steam: unnamed10
